@@ -1,0 +1,38 @@
+08-02-2018 15:45:07 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+08-02-2018 15:45:08 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Login failed for user 'sa'.
+08-02-2018 15:46:05 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+08-02-2018 15:46:26 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Multiple types were found that match the controller named 'Home'. This can happen if the route that services this request ('{controller}/{action}/{id}') does not specify namespaces to search for a controller that matches the request. If this is the case, register this route by calling an overload of the 'MapRoute' method that takes a 'namespaces' parameter.
+
+The request for 'Home' has found the following matching controllers:
+IdeaForum.Controllers.HomeController
+MVCForum.Website.Controllers.HomeController
+08-02-2018 15:48:41 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Multiple types were found that match the controller named 'home'. This can happen if the route that services this request ('{controller}/{action}/{id}') does not specify namespaces to search for a controller that matches the request. If this is the case, register this route by calling an overload of the 'MapRoute' method that takes a 'namespaces' parameter.
+
+The request for 'home' has found the following matching controllers:
+IdeaForum.Controllers.HomeController
+MVCForum.Website.Controllers.HomeController
+08-02-2018 15:55:58 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+08/02/2018 15:56:07 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Could not load file or assembly 'NPoco, Version=3.4.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+09-02-2018 02:14:45 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+09-02-2018 02:14:47 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Multiple types were found that match the controller named 'Home'. This can happen if the route that services this request ('{controller}/{action}/{id}') does not specify namespaces to search for a controller that matches the request. If this is the case, register this route by calling an overload of the 'MapRoute' method that takes a 'namespaces' parameter.
+
+The request for 'Home' has found the following matching controllers:
+IdeaForum.Controllers.HomeController
+MVCForum.Website.Controllers.HomeController
+09-02-2018 02:15:02 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Multiple types were found that match the controller named 'Home'. This can happen if the route that services this request ('{controller}/{action}/{id}') does not specify namespaces to search for a controller that matches the request. If this is the case, register this route by calling an overload of the 'MapRoute' method that takes a 'namespaces' parameter.
+
+The request for 'Home' has found the following matching controllers:
+IdeaForum.Controllers.HomeController
+MVCForum.Website.Controllers.HomeController
+09-02-2018 02:15:04 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Multiple types were found that match the controller named 'Home'. This can happen if the route that services this request ('{controller}/{action}/{id}') does not specify namespaces to search for a controller that matches the request. If this is the case, register this route by calling an overload of the 'MapRoute' method that takes a 'namespaces' parameter.
+
+The request for 'Home' has found the following matching controllers:
+IdeaForum.Controllers.HomeController
+MVCForum.Website.Controllers.HomeController
+09-02-2018 02:24:21 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+09/02/2018 02:24:29 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Could not load file or assembly 'NPoco, Version=3.4.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+09-02-2018 02:27:19 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+09/02/2018 02:29:20 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | String was not recognized as a valid Boolean.
+09/02/2018 02:31:26 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | String was not recognized as a valid Boolean.
+09-02-2018 02:32:49 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+09-02-2018 03:55:44 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
